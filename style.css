@@ -9,13 +9,12 @@ h1 {
 }
 
 h3{
-    color: darkcyan;
+    color: rgb(0, 56, 56);
     font-family: Cambria;
     font-weight: bold;
 }
 
-#mosshead,
-#mosslist2 {
+ul {
     color: rgb(20, 136, 10);
 
 }
