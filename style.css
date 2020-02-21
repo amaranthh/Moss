@@ -3,11 +3,10 @@ body {
     font-family: Arial;
 }
 
-.logo {
-    margin: 25px 400px;
-    background-image: url("mosslogo.png.png");
-    background-size: 100%;
-    background-repeat: no-repeat
+img .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
@@ -28,16 +27,18 @@ ul {
 
 main{
     margin: 25px 400px;
-    background-image: url("mossback3.png");
+    background-image: url("mossback4.png");
     background-size: 100%;
-    background-repeat: no-repeat
-    
-;
+    background-repeat: no-repeat;
 }
 
-#topheading{
+
+h2{
+    color: rgb(195, 236, 224);
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: rgb(38, 6, 90);
+    -webkit-text-stroke-color: rgb(25, 77, 155);
+    font-size: 30px;
+    font-family: cursive;
 
 }
 
