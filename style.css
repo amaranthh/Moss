@@ -40,18 +40,9 @@ h2{
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(25, 77, 155);
     font-size: 30px;
-    font-family: cursive;
+    font-family: sans-serif;
 
 }
 
-.ball01{
-    margin-left: 10%;
-}
 
-.ball02{
-    margin-left: 90%;
-}
 
-.ball03{
-    margin-left: 50%;
-}
