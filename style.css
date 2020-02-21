@@ -3,6 +3,13 @@ body {
     font-family: Arial;
 }
 
+.logo {
+    margin: 25px 400px;
+    background-image: url("mosslogo.png.png");
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
 h1 {
     color: mintcream;
     text-align: center;
@@ -18,3 +25,19 @@ ul {
     color: rgb(20, 136, 10);
 
 }
+
+main{
+    margin: 25px 400px;
+    background-image: url("mossback3.png");
+    background-size: 100%;
+    background-repeat: no-repeat
+    
+;
+}
+
+#topheading{
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(38, 6, 90);
+
+}
+
