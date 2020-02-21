@@ -1,6 +1,9 @@
 body {
     background-color: aquamarine;
     font-family: Arial;
+    background-image: url("mossback4.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 img .logo{
@@ -25,11 +28,11 @@ ul {
 
 }
 
-main{
+.middle{
     margin: 25px 400px;
-    background-image: url("mossback4.png");
+    background-image: url("bgi001.png");
     background-size: 100%;
-    background-repeat: no-repeat;
+    
 }
 
 
