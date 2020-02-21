@@ -28,7 +28,7 @@ ul {
 }
 
 .middle{
-    margin: 25px 400px;
+    margin: 0% 25%;
     background-image: url("bgi001.png");
     background-size: 100%;
     
@@ -44,6 +44,14 @@ h2{
 
 }
 
-.ball{
-    margin: 25px 400px;
+.ball01{
+    margin-left: 10%;
+}
+
+.ball02{
+    margin-left: 90%;
+}
+
+.ball03{
+    margin-left: 50%;
 }
