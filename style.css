@@ -8,7 +8,14 @@ h1 {
     text-align: center;
 }
 
+h3{
+    color: darkcyan;
+    font-family: Cambria;
+    font-weight: bold;
+}
+
+#mosshead,
 #mosslist2 {
-    color: seagreen;
+    color: rgb(20, 136, 10);
 
 }
